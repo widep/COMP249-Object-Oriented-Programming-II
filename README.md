@@ -11,6 +11,6 @@ These are my solutions for the Java programming assignments. <br>
 <br>
 
 
-ATTENTION:
-Expectations of Originality
+ATTENTION! <br>
+Expectations of Originality<br>
 https://www.concordia.ca/encs/students/sas/expectation-originality.html
