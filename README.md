@@ -8,7 +8,7 @@ Term: Winter 2020 <br>
 <br>
 These are my solutions for the Java programming assignments. <br>
 <br>
-
+<br>
 
 ATTENTION! <br>
 Expectations of Originality<br>
